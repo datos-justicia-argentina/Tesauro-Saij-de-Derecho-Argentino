@@ -32,4 +32,3 @@ Recursos disponibles
 
 - **Formato:** SKOS-Core (RDF)
 
-- **Rango temporal:** 
