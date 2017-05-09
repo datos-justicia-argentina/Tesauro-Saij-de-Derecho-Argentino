@@ -6,7 +6,7 @@ El Tesauro SAIJ es un sistema de organización del conocimiento jurídico, en fo
 Características
 ---------------
 
-- **Fecha de Publicación:** 01/12/2016 
+- **Fecha de Primera Publicación:** 01/12/2016 
 
 - **Tags o Etiquetas:** leyes, decisiones administrativas, decretos, resoluciones, disposiciones, acordadas, vocabularios controlados, tesauro jurídico, inteligencia jurídica
 
