@@ -19,7 +19,7 @@ Características
 
 - **Grupo:** Información Jurídica
 
-- **Frecuencia de Actualización:** Mensual
+- **Frecuencia de Actualización:** Mensualmente
 
 Recursos disponibles
 --------------------
