@@ -1,7 +1,7 @@
 Tesauro Saij de Derecho Argentino
 ===========================================================
 
-El Tesauro SAIJ es un sistema de organización del conocimiento jurídico, en forma de lista de términos controlados que representan conceptos. Se utiliza para hacer más eficiente para el usuario el acceso a la información contenida en un archivo o centro de documentación que administre material vinculado con el Derecho argentino
+El Tesauro SAIJ es un sistema de organización del conocimiento jurídico, en forma de lista de términos controlados que representan conceptos. Se utiliza para hacer más eficiente para el usuario el acceso a la información contenida en un archivo o centro de documentación que administre material vinculado con el Derecho argentino.
 
 Características
 ---------------
