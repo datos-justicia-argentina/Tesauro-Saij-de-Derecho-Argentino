@@ -33,6 +33,10 @@ Recursos disponibles
 
 - **Formato:** SKOS-Core (RDF)
 
-
 - **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+
+Notas
+-----
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 106 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-106-APN-MJ.pdf), del 2 de Febrero de 2017.
+
 
